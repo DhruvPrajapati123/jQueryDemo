@@ -1,0 +1,65 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+.btn{
+    margin: 20px;
+}
+.h1{
+    margin: 35px auto;
+}
+
+.hello{
+    font-size: 6rem;
+    font-weight: bold;
+    font-family: cursive;
+    color: rebeccapurple
+}
+
+.margin-50{
+    margin: 50px;
+}
+
+hr{
+    border-style: dotted;
+    border-width: 10px;
+}
+
+.image{
+    width:400px;
+    height:400px;
+    margin: 80px auto;
+    display: inline-block;
+}
+.attr{
+    margin: 30px auto
+}
+
+.in{
+    margin: 30px auto;
+}
+
+#text{
+    margin: 30px auto;
+}
+
+.over{
+    margin: 40px auto;
+    color:blue;
+    font-weight:bold;
+    font-style: cursive;
+    cursor:pointer
+}
+
+.any{
+    margin: 30px auto;
+}
+
+.aniText{
+    margin: 30px auto;
+}
+p{
+    width: 50%;
+    font-size:25px;
+    margin: 20px auto;
+}
