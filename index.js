@@ -9,7 +9,7 @@ $(document).ready(function () {
         $(".h1").css("color", "green");
     })
     $(".btn4").click(function (){
-        $(".h1").css("color", "purple");
+        $(".h1").css("color", "black");
     })
     $(".btn5").click(function (){
         $(".h1").css("color", "orange");
